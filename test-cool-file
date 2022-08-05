@@ -1,0 +1,4 @@
+# this is a comment for Godot
+func _ready():
+  # runs at start of program
+  print("hello world!")
